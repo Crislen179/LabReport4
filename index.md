@@ -24,7 +24,7 @@ insert mode and press <x> to delete `1` in `index1`, type `2` to change `index1`
 Enter <:wq> to save the file and quit the vim.
 
 Step8: Run the tests, demonstarting that they now succeed
-Type `bash test.sh` to run the test again, the result is shown in the screenshot below:
+Type `bash test.sh` to run the test again, the result is shown in the screenshot below:<br />
 <img src="step8.png" alt="drawing" width="600"/> <br />
 From the result, we can see now the test is run succeeful with no bug.
 
