@@ -1,5 +1,5 @@
 Step4: Log into ieng6
-We type ssh cs15lfa23**(your own username)@ieng6.ucsd.edu to log into ieng6 remote server. The screenshot is shown below:
+We type ssh cs15lfa23**(your own username)@ieng6.ucsd.edu to log into ieng6 remote server. The screenshot is shown below: <br />
 <img src="step4.png" alt="drawing" width="600"/> <br />
 
 Step5: Clone your fork of the repository from your GitHub account <br />
@@ -11,7 +11,7 @@ clone my fork of the repository from my GitHub account. The screenshot is shown 
 <img src="step5.png" alt="drawing" width="600"/> <br />
 
 Step6: Run the tests, demonstarting that they fail
-Type `cd lab7` command to lab7 and type `bash test.sh` to run the test. The test result is shown below in the screenshot:
+Type `cd lab7` command to lab7 and type `bash test.sh` to run the test. The test result is shown below in the screenshot:<br />
 <img src="step6.png" alt="drawing" width="600"/> <br />
 From the result, we see test case `testMerge2` is fail.
 
