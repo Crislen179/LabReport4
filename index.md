@@ -30,5 +30,5 @@ From the result, we can see now the test is run succeeful with no bug.
 
 Step9: Commit and push the resulting change to your Github account
 First we type `git add ListExamples.java` to mark what file we want to get push. Then we type `git commit -m "(Whatever commit you want)` to add a commit.
-Finally, we type `git push ListExamples.java` to push the file to Github. The screenshot of the output is shown below:
+Finally, we type `git push ListExamples.java` to push the file to Github. The screenshot of the output is shown below:<br />
 <img src="step9.png" alt="drawing" width="600"/> <br />
